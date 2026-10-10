@@ -1,0 +1,4 @@
+# Needed on your laptop (Streamlit UI)
+streamlit
+requests
+pandas
